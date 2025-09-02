@@ -10,8 +10,8 @@ from utils.posters import fetch_poster  # TMDB + OMDb + fallback
 BASE_URL = "http://127.0.0.1:8000"
 MOVIES_CSV = "data/movies.csv"
 RATINGS_LOG = "data/new_ratings.csv"
-TMDB_API_KEY = "dd4d25ddc6e54c2ea1b413f6db5747c1"
-OMDB_API_KEY = "adf8966e"
+TMDB_API_KEY = "your api key"
+OMDB_API_KEY = "your api key"
 PLACEHOLDER_IMG = "placeholder.jpg"
 
 # === DARK THEME CSS ===
